@@ -61,7 +61,7 @@ ul {
 .parrafo {
   transition: all 0.3s ease-in-out;
   border: 1px solid #ffffff;
-  background-color: #0000006e;
+  background-color: #00000000;
 }
 
 .container {
@@ -69,14 +69,14 @@ ul {
   max-width: 800px;
   padding: 20px;
   border: 1px solid #ffffff;
-  background-color: #0000006e;
+  background-color: #00000000;
 }
 
 .experiencia {
   margin: 20px 0;
   padding: 20px;
   border: 1px solid #ccc;
-  background-color: #0000006e;
+  background-color: #00000000;
   text-align: center;
 }
 
