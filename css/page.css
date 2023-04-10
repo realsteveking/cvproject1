@@ -6,11 +6,17 @@
 
 body {
   animation-name: slideIn;
- background-color: #090e09 !important;
+ background-color: #252525 !important;
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   font-family: "Roboto-Black", Arial, Helvetica, sans-serif;
+}
+
+footer {
+
+font-size: xx-small;
+font: italic;
 }
 
 li{
@@ -27,20 +33,16 @@ h4,
 h5,
 h6 {
   font: "Roboto-Black", Arial, Helvetica, sans-serif;
-  font-size: 36px;
-  text-align: center;
+  font-size: 28px;
   animation-name: slideIn;
-  margin-top: 100px;
   color: #ffffff;
   font: Roboto-Black;
 }
 
 p {
   font: "Roboto-Bold";
-  font-size: 20px;
-  text-align: center;
-  margin-top: 50px;
   animation-name: slideIn;
+  font-size: 21px;
   animation-duration: 2s;
   color: #ffffff;
 }
